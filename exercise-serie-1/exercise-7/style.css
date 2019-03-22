@@ -1,1 +1,13 @@
 /*Use the .scss file instead!*/
+
+#canvas{
+    height: 500px;
+    width: 1100px;
+    background-color: black;
+
+}
+#clickHere{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+}

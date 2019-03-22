@@ -1,1 +1,10 @@
 /*Use the .scss file instead!*/
+.container{
+    display: flex;
+
+}
+
+#displaybox{
+    max-width: 500px;
+    border: black solid 7px;
+}

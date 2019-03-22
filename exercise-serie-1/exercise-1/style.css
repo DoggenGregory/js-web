@@ -1,1 +1,13 @@
 /*Use the .scss file instead!*/
+
+.text-success{
+    text-align: center;
+}
+#colorchanger{
+    margin: auto;
+
+    width: 200px;
+    height: 200px;
+    background-color: black;
+
+}
